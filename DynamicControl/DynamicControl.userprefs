@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="DynamicControl\DynamicControl.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.169.254.220.177:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DynamicControl\MainActivity.cs">
+    <Files>
+      <File FileName="DynamicControl\MainActivity.cs" Line="14" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DynamicControl AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
